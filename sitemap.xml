@@ -7,10 +7,16 @@
     <loc>https://hannameyer.github.io/CAST/articles/cast01-CAST-intro.html</loc>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/CAST/articles/cast02-AOA-tutorial.html</loc>
+    <loc>https://hannameyer.github.io/CAST/articles/cast02-plotgeodist.html</loc>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/CAST/articles/cast03-AOA-parallel.html</loc>
+    <loc>https://hannameyer.github.io/CAST/articles/cast03-CV.html</loc>
+  </url>
+  <url>
+    <loc>https://hannameyer.github.io/CAST/articles/cast04-AOA-tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://hannameyer.github.io/CAST/articles/cast05-parallel.html</loc>
   </url>
   <url>
     <loc>https://hannameyer.github.io/CAST/articles/index.html</loc>
@@ -37,10 +43,19 @@
     <loc>https://hannameyer.github.io/CAST/reference/bss.html</loc>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/CAST/reference/calibrate_aoa.html</loc>
+    <loc>https://hannameyer.github.io/CAST/reference/clustered_sample.html</loc>
+  </url>
+  <url>
+    <loc>https://hannameyer.github.io/CAST/reference/cookfarm.html</loc>
+  </url>
+  <url>
+    <loc>https://hannameyer.github.io/CAST/reference/errorProfiles.html</loc>
   </url>
   <url>
     <loc>https://hannameyer.github.io/CAST/reference/ffs.html</loc>
+  </url>
+  <url>
+    <loc>https://hannameyer.github.io/CAST/reference/geodist.html</loc>
   </url>
   <url>
     <loc>https://hannameyer.github.io/CAST/reference/global_validation.html</loc>
@@ -49,28 +64,22 @@
     <loc>https://hannameyer.github.io/CAST/reference/index.html</loc>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/CAST/reference/plot.aoa.html</loc>
+    <loc>https://hannameyer.github.io/CAST/reference/knndm.html</loc>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/CAST/reference/plot.trainDI.html</loc>
+    <loc>https://hannameyer.github.io/CAST/reference/nndm.html</loc>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/CAST/reference/plot_ffs.html</loc>
+    <loc>https://hannameyer.github.io/CAST/reference/normalize_DI.html</loc>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/CAST/reference/plot_geodist.html</loc>
+    <loc>https://hannameyer.github.io/CAST/reference/plot.html</loc>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/CAST/reference/print.aoa.html</loc>
+    <loc>https://hannameyer.github.io/CAST/reference/print.html</loc>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/CAST/reference/print.trainDI.html</loc>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/CAST/reference/show.aoa.html</loc>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/CAST/reference/show.trainDI.html</loc>
+    <loc>https://hannameyer.github.io/CAST/reference/splotdata.html</loc>
   </url>
   <url>
     <loc>https://hannameyer.github.io/CAST/reference/trainDI.html</loc>
